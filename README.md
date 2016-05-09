@@ -1,0 +1,3 @@
+# ThriftBase
+
+Common Thrift definitions.
